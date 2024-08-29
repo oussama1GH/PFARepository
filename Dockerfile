@@ -1,4 +1,4 @@
-# Use the official Nginx image from Docker Hub
+# Nginx image from Docker Hub
 FROM nginx:latest
 
 # Copy your HTML file to the Nginx web directory
