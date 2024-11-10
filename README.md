@@ -5,6 +5,3 @@ this is should be 4th test
 another test for new bridge network type /non
 another ip
 here is from EC2
-kazhdoizji
-edited
-zdazdaz
